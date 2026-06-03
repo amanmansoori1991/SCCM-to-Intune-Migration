@@ -1,0 +1,1 @@
+This document is going to be end to end description for Discovery and Assessment of an small scale organisation of On premises environment SCCM environment for planning migration to cloud based endpoint management scale of Intune. 
